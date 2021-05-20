@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+}
+
+body {
+  margin-top: 5vh;
+}
+
+h1, .date-info, .date-panel {
+  margin: 3vh 0;
+}
